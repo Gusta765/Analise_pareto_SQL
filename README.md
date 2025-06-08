@@ -90,6 +90,7 @@ As colunas esperadas estão descritas dentro do código.
 ## ✍️ Autor
 
 [**Gustavo Barbosa**](https://www.linkedin.com/in/gustavo-barbosa-868976236/)  
+
 🔗 [GitHub](https://github.com/seu-usuario) | 📧 gustavobarbosa7744@gmail.com
 
 ---
